@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <flatrate_1>
+                <model>HS\MultipleFlatrate\Model\Carrier\Flatrate1</model>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <name>Flat rate 1</name>
+                <price>0.00</price>
+                <title>Flat rate 1</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <handling_type>F</handling_type>
+            </flatrate_1>
+            <flatrate_2>
+                <model>HS\MultipleFlatrate\Model\Carrier\Flatrate2</model>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <name>Flat rate 2</name>
+                <price>0.00</price>
+                <title>Flat rate 2</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <handling_type>F</handling_type>
+            </flatrate_2>
+            <flatrate_3>
+                <model>HS\MultipleFlatrate\Model\Carrier\Flatrate3</model>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <name>Flat rate 3</name>
+                <price>0.00</price>
+                <title>Flat rate 3</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <handling_type>F</handling_type>
+            </flatrate_3>
+            <flatrate_4>
+                <model>HS\MultipleFlatrate\Model\Carrier\Flatrate4</model>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <name>Flat rate 4</name>
+                <price>0.00</price>
+                <title>Flat rate 4</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <handling_type>F</handling_type>
+            </flatrate_4>
+            <flatrate_5>
+                <model>HS\MultipleFlatrate\Model\Carrier\Flatrate5</model>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <name>Flat rate 5</name>
+                <price>0.00</price>
+                <title>Flat rate 5</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <handling_type>F</handling_type>
+            </flatrate_5>
+        </carriers>
+    </default>
+</config>
