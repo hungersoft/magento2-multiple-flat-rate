@@ -3,7 +3,9 @@
 #  Multiple Flat Rate [M2]
 **hs/module-multiple-flat-rate**
 
-Hungersoft's [Multiple Flat Rate](https://www.hungersoft.com/p/magento2-multiple-flat-rate) extension allows you to add unlimited flat rate shipping methods to your store. You can easily configure the number of flat rate methods you need and, the name and code of each of these custom flat rate methods.
+Hungersoft's [Multiple Flat Rate](https://www.hungersoft.com/p/magento2-multiple-flat-rate) extension allows you to add upto 5 flat rate shipping methods to your store. You can easily configure the number of flat rate methods you need and, the name and code of each of these custom flat rate methods.
+
+If you wish to add more than 5 flat shipping rates you can use our [Multiple Flat Rate Pro \[M2\]](https://www.hungersoft.com/p/magento2-multiple-flat-rate-pro). It allows you to add unlimited flat shipping rates with their own custom name and shipping method code, and configure each of them individually. You can add/edit/remove each of them whenever you want, conveniently from your Magento 2 admin.
 
 ## Installation
 
